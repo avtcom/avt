@@ -1,0 +1,35 @@
+{
+  "sessionSecret": "9ab29935e617827164fe6f258fe93cee64a6cd6ebc4cd4330ae4e66205915493",
+  "apps": [
+    {
+      "id": "app-novadroid-demo",
+      "name": "NovaDroid Smart Suite",
+      "tagline": "Fast, secure, and lightweight Android utility suite built for everyday productivity.",
+      "description": "NovaDroid Smart Suite brings daily activity tracking, device usage analytics, quick system shortcuts, and encrypted cloud sync into one clean Android experience. Download the signed APK directly with zero ads or bloat.",
+      "whatsNew": "• Added Dark Vault security controls with biometric lock support\n• Reduced battery and background data usage with a refreshed interface\n• Full compatibility for Android 14 and Android 15 devices",
+      "version": "2.4.0",
+      "packageId": "com.droidvault.novadroid",
+      "category": "Utilities & Productivity",
+      "minAndroid": "Android 10.0+",
+      "developer": "Sasindu Studios",
+      "iconUrl": "/src/assets/images/app_icon_main_1795134477355.jpg",
+      "apkUrl": "/uploads/apk/NovaDroid-Toolkit-v2.4.0.apk",
+      "apkFileName": "NovaDroid-Toolkit-v2.4.0.apk",
+      "apkSizeBytes": 65645,
+      "apkSha256": "9c9b3ab6ed8c15fa2b475ad11c60a6cd7af915d85a05f5c79f843b20dab54dce",
+      "screenshots": [
+        "/src/assets/images/screenshot_1_home_1795134478331.jpg",
+        "/src/assets/images/screenshot_2_analytics_1795134479546.jpg",
+        "/src/assets/images/screenshot_3_tools_1795134484184.jpg",
+        "/src/assets/images/screenshot_4_settings_1795134480533.jpg"
+      ],
+      "videoUrl": "",
+      "videoFileName": "",
+      "downloads": 1249,
+      "featured": true,
+      "createdAt": "2026-11-20T00:34:18.612Z",
+      "updatedAt": "2026-11-20T00:34:18.612Z"
+    }
+  ],
+  "users": []
+}
